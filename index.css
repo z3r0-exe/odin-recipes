@@ -17,7 +17,7 @@
     justify-content: center;
     align-items: center;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     gap: 20px;
 }
 .mushroom{ 
@@ -25,40 +25,40 @@
     display: flex;
     flex-direction: column;
     padding-bottom: 20px;
-    font-size: 15px;
+    font-size: 20px;
 }
 .carrots{
     align-items: center;
     display: flex;
     flex-direction: column;
     padding-bottom: 20px;
-    font-size: 15px;
+    font-size: 20px;
 }
 .beans{
     align-items: center;
     display: flex;
     flex-direction: column;
     padding-bottom: 20px;
-    font-size: 15px;
+    font-size: 20px;
 }
 .broccoli{
     align-items: center;
     display: flex;
     flex-direction: column;
     padding-bottom: 20px;
-    font-size: 15px;
+    font-size: 20px;
 }
 .corn{
     align-items: center;
     display: flex;
     flex-direction: column;
     padding-bottom: 20px;
-    font-size: 15px;
+    font-size: 20px;
 }
 .tomato{
     align-items: center;
     display: flex;
     flex-direction: column;
     padding-bottom: 20px;
-    font-size: 15px;
+    font-size: 20px;
 }
