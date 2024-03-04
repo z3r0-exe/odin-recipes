@@ -25,40 +25,40 @@
     display: flex;
     flex-direction: column;
     padding-bottom: 20px;
-    font-size: 20px;
+    font-size: 15px;
 }
 .carrots{
     align-items: center;
     display: flex;
     flex-direction: column;
     padding-bottom: 20px;
-    font-size: 20px;
+    font-size: 15px;
 }
 .beans{
     align-items: center;
     display: flex;
     flex-direction: column;
     padding-bottom: 20px;
-    font-size: 20px;
+    font-size: 15px;
 }
 .broccoli{
     align-items: center;
     display: flex;
     flex-direction: column;
     padding-bottom: 20px;
-    font-size: 20px;
+    font-size: 15px;
 }
 .corn{
     align-items: center;
     display: flex;
     flex-direction: column;
     padding-bottom: 20px;
-    font-size: 20px;
+    font-size: 15px;
 }
 .tomato{
     align-items: center;
     display: flex;
     flex-direction: column;
     padding-bottom: 20px;
-    font-size: 20px;
+    font-size: 15px;
 }
