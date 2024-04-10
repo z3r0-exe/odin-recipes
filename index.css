@@ -1,0 +1,64 @@
+.header{
+    justify-content: center;
+    display: flex;
+}
+.container{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 3px solid blue;
+    background-color: burlywood;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.list{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.mushroom{ 
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+.carrots{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+.beans{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+.broccoli{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+.corn{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+.tomato{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
